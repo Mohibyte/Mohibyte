@@ -14,7 +14,7 @@
   <h2 style="color:#00fff5; border-bottom:2px solid #00fff5; padding-bottom:8px; display:inline-block;">🧑‍💻 About Me</h2>
   
   <ul style="color:#eee; margin-top:20px; font-size:1.1rem;">
-    <li>💡 Creative <strong style="color:#00fff5;">Developer</strong> & <strong style="color:#00fff5;">UI/UX Designer</strong></li>
+    <li>💡 Creative <strong style="color:#00fff5;">Developer</strong> & <strong style="color:#00fff5;">Designer</strong></li>
     <li>📍 Based in <strong style="color:#00fff5;">Pakistan 🇵🇰</strong></li>
     <li>🚀 Always improving, building unique tools and interactive experiences</li>
     <li>🧰 Skills & Focus Areas:
@@ -24,7 +24,7 @@
         <li>Creative coding, automation & custom tools</li>
       </ul>
     </li>
-    <li>📹 Sharing creative content on <a href="https://www.youtube.com/@your-channel" style="color:#00fff5; text-decoration:none;">YouTube</a> & building a community</li>
+    <li>📹 Sharing creative content on <a href=https://www.youtube.com/@Mohibyte" style="color:#00fff5; text-decoration:none;">YouTube</a> & building a community</li>
   </ul>
 </div>
 
