@@ -1,9 +1,9 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ZarCodeX/ZarCodeX/refs/heads/main/images/ZarCodeX%20-%20Round.png" alt="Mohibyte" width="150" style="border-radius:50%; border:3px solid #00fff5; box-shadow:0 0 20px rgba(0,255,245,0.3);" />
+  <img src="https://avatars.githubusercontent.com/u/220753811" alt="Mohibyte" width="150" style="border-radius:50%; border:3px solid #00fff5; box-shadow:0 0 20px rgba(0,255,245,0.3);" />
   
   <h1 style="color:#00fff5; font-size:2.5rem; margin:15px 0 5px;">Hi, I'm Mohibyte 👋</h1>
-  <p style="color:#aaa; font-size:1.2rem;">aka Mohib — Developer • Designer • Innovator</p>
+  <p style="color:#aaa; font-size:1.2rem;">aka Mohib — Developer • Designer</p>
 
 </div>
 
